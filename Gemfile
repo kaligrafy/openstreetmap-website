@@ -95,3 +95,6 @@ group :development, :test do
   gem 'konacha'
   gem 'poltergeist'
 end
+
+
+gem 'thin'
